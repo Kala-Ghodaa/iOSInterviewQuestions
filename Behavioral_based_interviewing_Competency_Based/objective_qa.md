@@ -1,15 +1,15 @@
-# 自我介绍类型Behavioral-based interviewing Competency-Based Interviewing
+# Self-introduction typesBehavioral-based interviewing Competency-Based Interviewing
 
 
 ![https://github.com/ChenYilong/iOSInterviewQuestions](/assets/mindmap_of_Behavioral_based_interviewing_Competency_Based.png)
 
 
 
-## 视频介绍
+## Video Introduction
 
 [https://youtu.be/xJm0lBLh6dQ](https://youtu.be/xJm0lBLh6dQ)
 
-## 正文
+## Main Content
 
 
 ## Behaviour (HR interview)
@@ -176,7 +176,7 @@ Thirdly, set up digital devices and prepare for my next task. First, I will lear
 
 ## Can you describe your work schedule for the day?
 
-//TODO: 时间规划
+//TODO: Time planning
 
 ## How would you describe your personality in five words?
 

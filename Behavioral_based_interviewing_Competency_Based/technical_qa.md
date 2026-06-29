@@ -1,6 +1,6 @@
-## 软件工程
+## Software Engineering
 
-**行为面试相关：**
+**Behavioral Interview Related:**
 
 1. How do you keep up to date with your Swift and iOS knowledge?
 
