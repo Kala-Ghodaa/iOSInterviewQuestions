@@ -68,11 +68,11 @@ The app has the following requirements:
 
 ## 3. Solutions
 
-![架构图.png](Hungry%20Hippo%20app%20Technical%20Design%20Docs%2050ebd0e21e7441d189bf648d1591f952/%25E6%259E%25B6%25E6%259E%2584%25E5%259B%25BE.png)
+![Architecture Diagram.png](Hungry%20Hippo%20app%20Technical%20Design%20Docs%2050ebd0e21e7441d189bf648d1591f952/%25E6%259E%25B6%25E6%259E%2584%25E5%259B%25BE.png)
 
 ## Cache Solutions
 
-![catch work 基本流程图 (2).png](Hungry%20Hippo%20app%20Technical%20Design%20Docs%2050ebd0e21e7441d189bf648d1591f952/catch_work_%25E5%259F%25BA%25E6%259C%25AC%25E6%25B5%2581%25E7%25A8%258B%25E5%259B%25BE_(2).png)
+![catch work Basic Flowchart (2).png](Hungry%20Hippo%20app%20Technical%20Design%20Docs%2050ebd0e21e7441d189bf648d1591f952/catch_work_%25E5%259F%25BA%25E6%259C%25AC%25E6%25B5%2581%25E7%25A8%258B%25E5%259B%25BE_(2).png)
 
 ## solution
 

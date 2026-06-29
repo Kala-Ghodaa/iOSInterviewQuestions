@@ -1,12 +1,12 @@
-# 主观面试Behavioral-based interviewing Competency-Based Interviewing
+# Subjective Interview: Behavioral-based interviewing Competency-Based Interviewing
 
 ![https://github.com/ChenYilong/iOSInterviewQuestions](/assets/mindmap_of_Behavioral_based_interviewing_Competency_Based.png)
 
-## 视频介绍
+## Video Introduction
 
 [https://youtu.be/xJm0lBLh6dQ](https://youtu.be/xJm0lBLh6dQ)
 
-## 正文
+## Main Content
 
 ## How do you handle the pressure?
 
@@ -41,15 +41,15 @@ So I think feedback and communication are the critical points to dealing with th
 
 <!--- 
 
-朋友点评如下:
+Friends commented as follows:
 
-不要complain 同事 , 说啥也不能说同事，尤其在面试。
+Do notcomplain Colleague , Whatever you say, do not sayColleague,尤it ininterview.
 
-iOS challenge 就说OC转swift UI，
+iOS challenge just sayOC转swift UI,
 
-现在大部分公司都在推swift和swift UI，这是核心技能，如果你有类似OC-》swift和uikit-》swift UI的经验，就是bonus.
+Most companies are now promotingswiftandswift UI,This is a core skill,If you have similarOC-swiftanduikit-swift UIexperience,isbonus.
 
-我不建议你写这种会影响到performance的东西。 你可以就直说是语言，然后一定要however，你说我觉得我基本沟通工作都是没问题的，但是毕竟英文有些还是有文化背景的，例如give a shit，这是一个褒义词，但是我第一次看到的时候我以为是贬义词。Anyway，这都不是事，我觉得我呆1-2个月，就很容易融入了，毕竟我是一个fast learner.
+I do not recommend you write this kind that will affectperformancethings. you can directly say it's a language,then you musthowever,You say I think my basic communication work is no problem,But after all, some English still has cultural background,for examplegive a shit,This is a complimentary term,But when I first saw it I thought it was a derogatory term.Anyway,These are not issues,我觉得我呆1-2个月,就很容易融入了,毕竟我是一个fast learner.
 
 -->
 
@@ -198,13 +198,13 @@ An Easy Way to Remember How to Handle Conflict:
    
 //TODO: STAR
 
-团队内部出现相悖的观点，可能要体现你的open观点，和其他developer，测试，PO 协商，seek better solution.同时也要相信体现自己的technical confidence，可以make a suitable decision.
+团队内部出现相悖的观点,可能要体现你的open观点,andOtherdeveloper,测试,PO 协商,seek better solution.同时也要相信体现自己的technical confidence,可以make a suitable decision.
 
-冲突这个问题，你拿到了后。先要general的说一下，我做it这么多年了，这种问题其实常有发生，或者不可避免。当遇到冲突的时候，首先我会想想是不是我的解决方案有漏洞，是否还可以继续优化。如果是的，那我肯定会先改进，然后和对方去discuss the final solution。 如果我觉得我的方案没有错，那我回去听一下对方的建议，可能是我们都有疏忽。然后一起敲定解决方案。如果真的是由于一些原因导致无法采用最优解，那我们也会创建ticket去记录这个东西持续改进。我相信大家都是professional的，没有问题解决不了.
+冲突这个问题,你拿到了后.先要general的说一下,我做it这么多年了,这种问题其实常有发生,或者不可避免.当遇到冲突的时候,首先我会想想是不是我的解决方案有漏洞,是否还可以继续优化.如果是的,那我肯定会先改进,然后and对方去discuss the final solution. 如果我觉得我的方案没有错,那我回去听一下对方的建议,可能是我们都有疏忽.然后一起敲定解决方案.如果真的是由于一些原因导致无法采用最优解,那我们也会创建ticket去记录这个东西持续改进.我相信大家都是professional的,没有问题解决不了.
 
-你就说我们都是experienced的，和professional的it人士，我相信，任何时候，我们都会be open-minded，去discuss to seek a higher quality solution， then we execute it. 如果反对，那一定是一个open discussion，我只是表述自己的意见，帮助大家更好的去理解那个问题。 of couse，如果我们敲定了最终方案，当然就要严格执行下去.
+你just say我们都是experienced的,andprofessional的it人士,我相信,任何时候,我们都会be open-minded,去discuss to seek a higher quality solution, then we execute it. 如果反对,那一定是一个open discussion,我只是表述自己的意见,帮助大家更好的去理解那个问题. of couse,如果我们敲定了最终方案,当然就要严格执行下去.
 
-这个题，其实更像是你在敏捷里的角色，planning和refinement都是讨价还价，各抒己见的菜市场，但是一定敲定了，那么sprint的execute就是要尽可能的achieve goal
+这个题,其实更像是你在敏捷里的角色,planningandrefinement都是讨价还价,各抒己见的菜市场,但是一定敲定了,那么sprint的executeis要尽可能的achieve goal
 
 ## How do you handle conflict between team members? What do you do?
 
@@ -241,7 +241,7 @@ I want to share my experience. It was in one of my companies.
 
 I posted a proposal and thought a lot of detail, but my proposal disagreed. It was quite a challenging situation. I want to share how did I solve this problem. I think discussion and conversation is the best way to deal with the disagreement and challenging situation, so I talked with my colleagues and spent a lot of time giving our reports and describing why I posted this proposal. In the end, they accepted my problem proposal. At the end of the year, I top ten percent in KPI, or I was able to achieve correctly. I learned a lot from the challenge.
 
-//TODO: 答案和题目对不上, 不是特别好那种. 应该可以有写代码遇到难题时候, 更好的例子.
+//TODO: Answersand题目对不上, 不是特别好那种. 应该可以有写代码遇到难题时候, 更好的例子.
 
 ## How to play a role even if you don't like it?
 
@@ -367,7 +367,7 @@ I can do both. I can work individually, but I am also a team player.
 
 First of all, I'd like to do things individually. I believe in my ability. I can solve the conflict individually. So I'd like to do this, but I can't deal with some very challenging situations. So I have to ask my team leader or manager for advice.
 
-//TODO:同事互相帮助而不是只有你有问题了去找上级帮忙
+//TODO:Colleague互相帮助而不是只有你有问题了去找上级帮忙
 
 - always help.
 - individual—> team work / team player

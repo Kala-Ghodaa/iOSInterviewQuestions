@@ -1,58 +1,48 @@
-```
-# iOS/Xcode
-*.xcodeproj/
-*.xcworkspace/
-*.xcuserdatad/
-*.xccheckout
-*.moved-aside
-*.pbxuser
-*.perspectivev3
-*.swp
-*~.nib
-*.mode1v3
-*.mode2v3
-*.perspective
-*.ideplugin
-*.xcodeproj/project.xcworkspace/xcuserdata/
-*.xcodeproj/xcuserdata/
-xcuserdata/
-
-# Build results
-build/
-*.build/
-DerivedData/
-
-# Generated files
-*.nib
-*.framework
-*.app
-*.ipa
-*.dSYM*
-*.lproj/
-
-# CocoaPods
-Pods/
-Podfile.lock
-
-# Carthage
-Carthage/
-
-# Swift Package Manager
-.swiftpm/
-Package.resolved
-
-# Archives
-*.xcarchive
-
-# Temporary files
-*.tmp
-*.temp
+# Logs and temp files
 *.log
+*.tmp
+*.swp
 
 # Environment
 .env
 .env.local
-.env.*
+*.env.*
+
+# Dependencies
+node_modules/
+venv/
+.venv/
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+dist/
+build/
+target/
+.gradle/
+
+# Editors
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.pyc
+*.class
+*.o
+*.exe
+*.dll
+*.so
+*.a
+*.obj
+*.out
+
+# Coverage
+coverage/
+htmlcov/
+.coverage
 
 # Compressed files
 *.zip
@@ -77,5 +67,3 @@ Package.resolved
 *.tar.bz2
 *.tar.xz
 *.tar.zst
-
-```
